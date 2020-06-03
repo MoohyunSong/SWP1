@@ -1,1 +1,2 @@
-20203085 Moohyun Song test
+20203085 Moohyun Song
+Kookmin Univ. SW
