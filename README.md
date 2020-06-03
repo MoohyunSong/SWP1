@@ -1,3 +1,3 @@
 MoohyunSong 20203085
 
-Kookmin Univ.
+Kookmin Univ. SW(CS)
