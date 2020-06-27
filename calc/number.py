@@ -11,7 +11,7 @@ def application(environ, start_response):
         number_sum = "%d + %d = %d" %(a,b,a+b)
         number_multi = "%d * %d = %d" %(a,b,a*b)
 
-        f = open("/var/www/html/result/result.txt", "w")
+        f = open("/usr/local/swp1/result/result.txt", "w")
         f.write(number_sum)
         f.write("\n")
         f.write(number_multi)
